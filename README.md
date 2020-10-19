@@ -11,23 +11,7 @@ To install requirements:
 pip install -r requirements.txt
 ```
 
-## Sampling 
-
-To sample from a distribution, implement the following code: 
-
-```
-
-```
-
-## Evaluation 
-
-To evaluate samples,
-
-```
-
-```
-
 ## Results
 
-
+The code is proof of concept, and therefore the code and details are given within the jupyter notebook "LAWGD.ipynb".
 
